@@ -1,0 +1,1 @@
+Joueur 4.0 477 336 0 Ennemi 0 0 0 Map Magasin false false true false false false false false false false false false false false false false false false false false false false false false false false false false 
